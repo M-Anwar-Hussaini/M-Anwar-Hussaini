@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Full-Stack web development at Microverse.**
 
-- 👨‍💻 All of my projects are available at [https://m-anwar-hussaini.github.io/Portfolio/](https://m-anwar-hussaini.github.io/Portfolio/)
+- 👨‍💻 You can see my portfolio [here](https://m-anwar-hussaini.github.io/Portfolio/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, and Java.**
 
-- 📫 How to reach me **anwarhussaini160@gmail.com**
+- 📫 Drom me an email to be in touch **anwarhussaini160@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
