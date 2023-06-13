@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, and Java.**
 
-- 📫 Drom me an email to be in touch **anwarhussaini160@gmail.com**
+- 📫 Drop me an email to be in touch **anwarhussaini160@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
