@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anwar Hussaini</h1>
 <h3 align="center">A passionate Full-Stack Web & Mobile developer from Afghanistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwar-hussaini&label=Profile%20views&color=0e75b6&style=flat" alt="anwar-hussaini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwar-hussaini&label=Profile%20views&color=0e75b6&style=flat" alt="m-anwar-hussaini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwar-hussaini" alt="anwar-hussaini" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-anwar-hussaini" alt="m-anwar-hussaini" /></a> </p>
 
 - 🔭 I’m currently working on **PhysicalExam** project at **HeyFlutter.com**
 
