@@ -29,7 +29,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux,ts,js,postman,vite,webpack,babel" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux,ts,js,vite,webpack,babel" />
     </a>
   </p>
 </div>
@@ -38,7 +38,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,ruby,rails,firebase,nodejs,express,go,graphql,mysql,postgresql,sqlite,python" />
+      <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,ruby,rails,postman,firebase,nodejs,express,go,graphql,mysql,postgresql,sqlite,python" />
     </a>
   </p>
 </div>
@@ -56,7 +56,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vite,npm,git,bash,md,github,vscode,webstorm" />
+      <img src="https://skillicons.dev/icons?i=vite,npm,git,bash,md,github,vscode" />
     </a>
   </p>
 </div>
