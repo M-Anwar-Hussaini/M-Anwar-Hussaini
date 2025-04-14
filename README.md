@@ -19,7 +19,7 @@
 
 <div align="center">
 
-## [My Resume ](https://flowcv.com/resume/vef5t7thv8u5)
+## [My Resume ⏭](https://drive.google.com/file/d/1TY-NE4n9O4k13cLpqICjwppTPIVUXty5/view)
 
 </div>
 
