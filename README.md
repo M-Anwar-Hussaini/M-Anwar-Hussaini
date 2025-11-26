@@ -38,7 +38,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,ruby,rails,postman,firebase,nodejs,express,go,graphql,mysql,postgresql,sqlite,python" />
+      <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,ruby,rails,postman,firebase,nodejs,express,graphql,mysql,postgresql,sqlite,python" />
     </a>
   </p>
 </div>
@@ -60,27 +60,3 @@
     </a>
   </p>
 </div>
-
----
-
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=m-anwar-hussaini&show_icons=true&locale=en&layout=compact" alt="m-anwar-hussaini" 
-  />
-</p>
-
-<p>
-  &nbsp;
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=m-anwar-hussaini&show_icons=true&locale=en"
-    alt="m-anwar-hussaini"
-  />
-</p>
-
-<p>
-  <img align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=m-anwar-hussaini&"
-  alt="m-anwar-hussaini"/>
-</p>
