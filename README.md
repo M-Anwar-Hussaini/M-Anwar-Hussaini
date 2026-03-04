@@ -1,62 +1,83 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=m-anwar-hussaini&label=Profile%20views&color=0e75b6&style=flat" alt="m-anwar-hussaini" /> </p>
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Anwar Hussaini</h1>
-<h3 align="center">A passionate Full-Stack Web & Mobile developer from Afghanistan</h3>
+<h3 align="center">A passionate Full-Stack Web & Mobile Developer from Afghanistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-anwar-hussaini&label=Profile%20views&color=0e75b6&style=flat" alt="m-anwar-hussaini" /> </p>
+- 👨‍💻 I'm currently working on [**PhysicalExam**](https://app.physicalexam.com/)
+- 🌱 I'm deeply learning **Flutter, Node.js, Design Patterns & System Architecture**
+- 💬 Ask me about web development, mobile apps, or system design — [anwarhussaini160@gmail.com](mailto:anwarhussaini160@gmail.com)
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1TY-NE4n9O4k13cLpqICjwppTPIVUXty5/view)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-anwar-hussaini" alt="m-anwar-hussaini" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=m-anwar-hussaini" alt="m-anwar-hussaini" /></a> </p>
 
-- 🔭 I’m currently working on [**PhysicalExam**](https://app.physicalexam.com/) project;
+---
 
-- 🌱 I’m currently learning deeply about **Flutter, NodeJS, Design Patters, System Architecture**
-
-- 📫 How to reach me **anwarhussaini160@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anwar-hussaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwar-hussaini" height="30" width="40" /></a>
-<a href="https://fb.com/moh.anwar.hussaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moh.anwar.hussaini" height="30" width="40" /></a>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/anwar-hussaini" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/moh.anwar.hussaini" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:anwarhussaini160@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+---
+
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
-
-## [My Resume ⏭](https://drive.google.com/file/d/1TY-NE4n9O4k13cLpqICjwppTPIVUXty5/view)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwar-hussaini&layout=compact&theme=radical" alt="m-anwar-hussaini" />
+  <p>&nbsp;</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-anwar-hussaini&show_icons=true&locale=en&theme=gruvbox" alt="m-anwar-hussaini" />
 </div>
 
-<h2 align="left">Languages and Tools:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<h3 align="center">Front-End</h3>
-<div>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux,ts,js,vite,webpack,babel" />
-    </a>
-  </p>
+<h3 align="center">Statistics</h3>
+<div align="center">
+  <a href="https://github.com/m-anwar-hussaini">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-anwar-hussaini&theme=algolia" alt="Stats" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-anwar-hussaini&theme=aura_dark" alt="Most Commit Language" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-anwar-hussaini&theme=aura_dark" alt="Repos per Language" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-anwar-hussaini&theme=2077" alt="Productive Time" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-anwar-hussaini&theme=2077" alt="Profile Details" />
+  </a>
 </div>
 
-<h3 align="center">Back-End</h3>
-<div>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,ruby,rails,postman,firebase,nodejs,express,graphql,mysql,postgresql,sqlite,python" />
-    </a>
-  </p>
-</div>
-
-<h3 align="center">Mobile</h3>
-<div>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dart,flutter" />
-    </a>
-  </p>
-</div>
-
-<h3 align="center">Tools</h3>
-<div>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vite,npm,git,bash,md,github,vscode" />
-    </a>
-  </p>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
