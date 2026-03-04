@@ -62,9 +62,9 @@
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwar-hussaini&layout=compact&theme=radical" alt="m-anwar-hussaini" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m-anwar-hussaini&layout=compact&theme=radical" alt="m-anwar-hussaini" />
   <p>&nbsp;</p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-anwar-hussaini&show_icons=true&locale=en&theme=gruvbox" alt="m-anwar-hussaini" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=m-anwar-hussaini&show_icons=true&locale=en&theme=gruvbox" alt="m-anwar-hussaini" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
