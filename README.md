@@ -61,11 +61,12 @@
 ---
 
 <h3 align="center">Statistics</h3>
-<p align="center">GitHub stats from a single source for consistent numbers.</p>
+<p align="center">GitHub stats and language breakdown by repo & by commit.</p>
 <div align="center">
   <a href="https://github.com/m-anwar-hussaini">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=m-anwar-hussaini&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m-anwar-hussaini&layout=compact&theme=gruvbox" alt="Top Languages" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-anwar-hussaini&theme=aura_dark" alt="Top Languages by Commit" />
   </a>
 </div>
 
