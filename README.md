@@ -60,24 +60,17 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m-anwar-hussaini&layout=compact&theme=radical" alt="m-anwar-hussaini" />
-  <p>&nbsp;</p>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=m-anwar-hussaini&show_icons=true&locale=en&theme=gruvbox" alt="m-anwar-hussaini" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <h3 align="center">Statistics</h3>
+<p align="center">GitHub stats from a single source for consistent numbers.</p>
 <div align="center">
   <a href="https://github.com/m-anwar-hussaini">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-anwar-hussaini&theme=algolia" alt="Stats" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-anwar-hussaini&theme=aura_dark" alt="Most Commit Language" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-anwar-hussaini&theme=aura_dark" alt="Repos per Language" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-anwar-hussaini&theme=2077" alt="Productive Time" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-anwar-hussaini&theme=2077" alt="Profile Details" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=m-anwar-hussaini&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m-anwar-hussaini&layout=compact&theme=gruvbox" alt="Top Languages" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-anwar-hussaini&hide_border=true&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=FF9800&currStreakLabel=000000" alt="GitHub Streak Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
