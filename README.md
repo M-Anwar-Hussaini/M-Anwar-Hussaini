@@ -73,5 +73,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-anwar-hussaini&hide_border=true&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=FF9800&currStreakLabel=000000" alt="GitHub Streak Stats" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
